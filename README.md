@@ -617,3 +617,5 @@ pm2 startup   # 设置开机自启（根据提示执行）
 本次换证不追溯撤销此前已经依照 MIT License 获得的旧版本许可。
 
 ---
+
+<!-- Production start command: npm run start:railway (runs gateway and wake-up). -->
